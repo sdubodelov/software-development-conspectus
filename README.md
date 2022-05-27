@@ -1,1 +1,1 @@
-# software-develpoment-conspectus
+# software-development-conspectus
